@@ -5,7 +5,8 @@ layout: post
 The biology PhD learns to program through graduate courses (if they're lucky), self-teaching, or
 perhaps sitting in on undergraduate CS courses. In each case, the objective is to learn enough
 programming to encapsulate biological datasets, manipulate them, and analyze them. 
-*This amounts to playing with text*, **lots of text**, specifically a bunch of AGTC's or 012's or AB's
+*This amounts to playing with text*, **lots of text**, specifically a bunch of AGTC's or 012's or AB's.
+But how do you start with designing a website?
 
 Relative to programming needed to analyze biological data, programming intended for web and app development
 resembles some sort of black magic. I would argue that if you're taking the time to learn statistical or 
