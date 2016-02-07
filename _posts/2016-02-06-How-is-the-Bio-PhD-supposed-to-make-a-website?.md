@@ -1,7 +1,7 @@
 ---
 layout: post
 ---
-
+<img src="{{ site.baseurl }}/images/How-is-the-bio-phd-supposed-to-make-a-website.jpg">
 The biology PhD learns to program through graduate courses (if they're lucky), self-teaching, or
 perhaps sitting in on undergraduate CS courses. In each case, the objective is to learn enough
 programming to encapsulate biological datasets, manipulate them, and analyze them. 
