@@ -37,7 +37,7 @@ introduction to the site, my skills and hobbies, and academic accomplishments. S
 to `css/style.css` to change the colors of the page, resize image elements, and so on. I won't include
 how to do each of those things here. Instead, it's an opportunity to learn *HTML* and *CSS*.
 
-Once you've made modifications to your project, to inspect your work on a local server with:
+Once you've made modifications to your project, inspect your work on a local server with:
 
 {% highlight bash %}
 jekyll serve
