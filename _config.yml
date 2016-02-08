@@ -11,4 +11,4 @@ twitter_username: saf6
 github_username:  funkhou9
 
 # Build settings
-markdown: redcarpet
+markdown: kramdown
