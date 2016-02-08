@@ -53,15 +53,15 @@
 /* Features */
 
 	.features article .image, .excerpt img {
-		display: block;
+		display: inline-block;
 		margin: 0 0 2.25em 0;
-		padding-right: 0;
-		width: 100%;
+		padding-right: 1em;
+		width: 25%;
 	}
 
 	.features article .inner {
-		display: block;
-		width: 100%;
+		display: inline-block;
+		width: 60%;
 	}
 
 /* Header */
