@@ -924,10 +924,14 @@
 			vertical-align: middle;
 		}
 
-		.features article .feature-fig .image img {
-			display: inline-block;
+		.features article .feature-fig img {
 			padding-right: 2.5em;
 			width: 100%;
+		}
+
+		.features article .feature-fig i {
+			color: #567990;
+			margin-left: 0.35em;
 		}
 
 		.features article .feature-fig figcaption {
