@@ -53,6 +53,12 @@
 		width: 100%;
 	}
 
+/* Features */
+
+	.features article .feature-fig i {
+			margin-left: 0.15em;
+		}
+
 /* Button */
 
 	input[type="submit"],
