@@ -1071,6 +1071,7 @@
 	#wrapper {
 		background: #fff;
 		padding-right: 23em;
+		/*padding: 0 0 0 21em !important;*/
 	}
 
 /* Main */
@@ -1091,7 +1092,7 @@
 
 	#one:before {
 		background-image: url("../images/banner.jpg");
-		background-position: top right;
+		background-position: top left;
 		background-repeat: no-repeat;
 		background-size: cover;
 		content: '';
@@ -1113,7 +1114,7 @@
 		#footer .copyright {
 			line-height: 1em;
 			list-style: none;
-			padding: 0;
+			margin-left: 5em;
 		}
 
 			#footer .copyright li {

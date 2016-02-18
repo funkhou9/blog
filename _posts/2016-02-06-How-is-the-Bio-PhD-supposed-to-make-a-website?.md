@@ -1,7 +1,7 @@
 ---
 layout: post
 ---
-<img src="{{ site.baseurl }}/images/How-is-the-bio-phd-supposed-to-make-a-website.jpg">
+<!-- <img src="{{ site.baseurl }}/images/How-is-the-bio-phd-supposed-to-make-a-website.jpg"> -->
 The biology PhD learns to program through graduate courses (if they're lucky), self-teaching, or
 perhaps sitting in on undergraduate CS courses. In each case, the objective is to learn enough
 programming to encapsulate biological datasets, manipulate them, and analyze them. 
@@ -9,14 +9,16 @@ programming to encapsulate biological datasets, manipulate them, and analyze the
 But how do you start with designing a website?
 
 Relative to programming needed to analyze biological data, programming intended for web and app development
-resembles some sort of black magic. I would argue that if you're taking the time to learn statistical or 
+resembles some sort of dark magic. I would argue that if you're taking the time to learn statistical or 
 bioinformatic algorithms and the languages to implement those algorithms, it's worth also learning 
-some black magic in order to communicate your accomplishments and your research.
+some dark magic in order to communicate your accomplishments and your research.
 
-Black magic takes time for the bio PhD to learn on their own. I've found that the best way for the bio
+Dark magic takes time for the bio PhD to learn on their own. I've found that the best way for the bio
 PhD to develop a hub for scientific accomplishments and blog posts is to use their (presumed) existing
 knowledge of Git and GitHub. [GitHub Pages](https://pages.github.com) provides a great way for the bio
-PhD to develop websites for themselves, their labs, or their projects.
+PhD to develop websites for themselves, their labs, and their projects. Just like their research or
+projects, they can make changes to their website and easily push those changes to GitHub for easy
+deployment.
 
 Unless all you want is a "Hello World!" page, the best way to get started quickly is to use 
 [Jekyll](https://jekyllrb.com), a blog-focused web framework that's used by GitHub Pages. Use the quick 

@@ -9,9 +9,9 @@ layout: default
         <div class="container">
             <header class="major">
                 <h2>Gigabases to Gigabytes</h2>
-                <p>Semi-professional site and blog by an aspiring genome scientist.</p>
+                <p>Website and blog by an aspiring genome scientist.</p>
             </header>
-            <p>This site includes blog posts detailing my journey learning quantitative genetics, R, C++, and web development. I enjoy pondering questions in genomics and learning new statistical/CS/web techniques to enhance my research. "Computational biologists" are a privaliged bunch, with opportunities to learn to skills, languages, and workflow practices to not only make their research easier, but incredibly fun. When not having fun with research and coding, I enjoy Seattle sports teams, good coffee, and good beer.</p>
+            <p>A site dedicated to my academic accomplishments and blog posts detailing my journey learning quantitative genetics, R, C++, and web development. I enjoy pondering questions in genomics and learning new statistical/CS/web techniques to enhance my research. "Computational biologists" have great opportunities to learn to skills, languages, and workflow practices to not only make their research easier, but incredibly fun. When not having fun with research and coding, I enjoy Seattle sports teams, good coffee, and good beer.</p>
         </div>
     </section>
 
@@ -37,54 +37,7 @@ layout: default
             <h3>Highlighted code and academic accomplishments</h3>
             <p></p>
             <div class="features">
-                <article>
-                    <div class="feature-fig">
-                        <figure>    
-                            <a href="https://github.com/funkhou9/editTools" class="image"><i class="fa fa-cogs fa-5x"></i></a>
-                            <figcaption></figcaption>
-                        </figure>
-                    </div>
-                    <div class="inner">
-                        <h4>editTools</h4>
-                        <p>editTools is a fast R package designed using compiled code meant for the anlaysis of RNA editing from whole genome sequencing and RNAseq data.</p>
-                    </div>
-                </article>
-                <article>
-                    <div class="feature-fig">
-                        <figure>    
-                            <a href="https://github.com/funkhou9/spin-my-script" class="image"><i class="fa fa-cog fa-spin fa-5x"></i></a>
-                            <figcaption></figcaption>
-                        </figure>
-                    </div>
-                    <div class="inner">
-                        <h4>spin</h4>
-                        <p>spin is a R/Bash solution for easy submission of scripts on TORQUE resource managers. Designed with literate programming and organization in mind.</p>
-                    </div>
-                </article>
-                <article>
-                    <div class="feature-fig">
-                        <figure>
-                            <a href="https://asas.confex.com/asas/mw15/webprogram/Paper11620.html" class="image"><i class="fa fa-comments fa-5x"></i></a>
-                            <figcaption></figcaption>  
-                        </figure>  
-                    </div>
-                    <div class="inner">
-                        <h4>My talk at the 2015 Midwest ASAS conference</h4>
-                        <p>Abstract from my 15min presentation providing evidence of widespread RNA editing in the swine model, with results obtained using editTools. Presentation slides and audio accessible with ASAS membership. Image from whotv.com</p>
-                    </div>
-                </article>
-                <article>
-                    <div class="feature-fig">
-                        <figure>
-                            <a href="http://www.ncbi.nlm.nih.gov/pubmed/25582857" class="image"><i class="fa fa-quote-right fa-5x"></i></a>
-                            <figcaption></figcaption>
-                        </figure>
-                    </div>
-                    <div class="inner">
-                        <h4>My first publication</h4>
-                        <p>My first publication working at the Abkowitz Lab at the University of Washington. I performed in-vivo work to uncover the effect of <i>FLVCR</i>, a heme-exporter, on lymphocyte peripheral survival.</p>
-                    </div>
-                </article>
+                {% include features.html %}
             </div>
         </div>
     </section>
