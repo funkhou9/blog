@@ -10,5 +10,7 @@ url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: saf6
 github_username:  funkhou9
 
+url: www.scottafunkhouser.com
+
 # Build settings
 markdown: kramdown
