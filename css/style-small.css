@@ -105,11 +105,20 @@
 		text-align: center;
 	}
 
+	#footer .copyright {
+		margin-left: 0;
+	}
+
+	ul.copyright {
+		padding-left: 0;
+	}
+
 		#footer .copyright li {
 			border-left: 0;
 			display: block;
 			line-height: 1.75em;
-			margin: 0.75em 0 0 0;
+			margin: 0 0 0 0;
+			margin-left: 0;
 			padding-left: 0;
 		}
 
@@ -128,3 +137,4 @@
 			font-size: 14px;
 			width: 44px;
 		}
+
