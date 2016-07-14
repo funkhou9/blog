@@ -95,7 +95,7 @@
 			}
 
 			#titleBar .toggle:before {
-				background: #567990;
+				background: #343d46;
 				color: #ffffff;
 				content: '\f0c9';
 				display: block;
@@ -110,6 +110,6 @@
 			}
 
 	#sidePanel {
-		background: #567990;
-		color: #d1f1e9;
+		background: #343d46;
+		color: #a7adba;
 	}

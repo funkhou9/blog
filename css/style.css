@@ -35,7 +35,7 @@
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #567990 !important;
+			color: #343d46 !important;
 		}
 
 	strong, b {
@@ -195,7 +195,7 @@
 	}
 
 	header.major h2 {
-		color: #567990;
+		color: #343d46;
 		font-size: 3.5em;
 	}
 
@@ -259,7 +259,7 @@
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #567990;
+			border-color: #343d46;
 		}
 
 	.select-wrapper {
@@ -370,7 +370,7 @@
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #567990;
+			border-color: #343d46;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -562,7 +562,7 @@
 				}
 
 				ul.feature-icons li:before {
-					background: #567990;
+					background: #343d46;
 					border-radius: 100%;
 					color: #ffffff;
 					display: block;
@@ -749,7 +749,7 @@
 		-o-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
-		background-color: #989898;
+		background-color: #343d46;
 		border-radius: 5px;
 		border: 0;
 		color: #ffffff !important;
@@ -768,16 +768,16 @@
 		input[type="reset"]:hover,
 		input[type="button"]:hover,
 		.button:hover {
-			background-color: #a5a5a5;
+			background-color: #4f5b66;
 			color: #ffffff !important;
 		}
 
 		input[type="submit"]:active,
 		input[type="reset"]:active,
 		input[type="button"]:active,
-		.button:active {
+		/*.button:active {
 			background-color: #8b8b8b;
-		}
+		}*/
 
 		input[type="submit"].icon,
 		input[type="reset"].icon,
@@ -851,7 +851,7 @@
 		input[type="reset"].special,
 		input[type="button"].special,
 		.button.special {
-			background-color: #567990;
+			background-color: #343d46;
 			color: #ffffff !important;
 		}
 
@@ -859,15 +859,15 @@
 			input[type="reset"].special:hover,
 			input[type="button"].special:hover,
 			.button.special:hover {
-				background-color: #5ed0b1;
+				background-color: #4f5b66;
 			}
 
 			input[type="submit"].special:active,
 			input[type="reset"].special:active,
 			input[type="button"].special:active,
-			.button.special:active {
+			/*.button.special:active {
 				background-color: #39c29d;
-			}
+			}*/
 
 		input[type="submit"].disabled, input[type="submit"]:disabled,
 		input[type="reset"].disabled,
@@ -930,7 +930,7 @@
 		}
 
 		.features article .feature-fig i {
-			color: #567990;
+			color: #343d46;
 			margin-left: 0.35em;
 		}
 
@@ -965,8 +965,8 @@
 /* Header */
 
 	#header {
-		background: #567990;
-		color: #d1f1e9;
+		background: #343d46;
+		color: #a7adba;
 		height: 100%;
 		position: fixed;
 		text-align: center;
@@ -984,11 +984,11 @@
 			}
 
 		#header header p {
-			color: #b6e9dc;
+			color: #a7adba;
 		}
 
 		#header a {
-			color: #d1f1e9;
+			color: #a7adba;
 		}
 
 			#header a:hover {
@@ -1011,7 +1011,7 @@
 			}
 
 			#header > header p {
-				color: #d1f1e9;
+				color: #a7adba;
 				font-style: italic;
 				margin: 1em 0 0 0;
 			}
@@ -1029,7 +1029,7 @@
 			}
 
 				#header > footer .icons li a {
-					color: #b6e9dc;
+					color: #a7adba;
 				}
 
 		#header > nav ul {
@@ -1039,7 +1039,7 @@
 		}
 
 			#header > nav ul li {
-				border-top: solid 2px #567390;
+				border-top: solid 2px #4f5b66;
 				display: block;
 				padding: 0;
 			}
@@ -1059,7 +1059,7 @@
 
 					#header > nav ul li a.active, #header > nav ul li .cc-active {
 						background: #fff;
-						color: #567990 !important;
+						color: #343d46 !important;
 					}
 
 				#header > nav ul li:first-child {
@@ -1091,7 +1091,7 @@
 /* One */
 
 	#one:before {
-		background-image: url("../images/banner.jpg");
+		background-image: url("../images/glass_house.jpg");
 		background-position: top left;
 		background-repeat: no-repeat;
 		background-size: cover;
