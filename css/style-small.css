@@ -55,13 +55,14 @@
 	.features article .image, .excerpt img {
 		display: inline-block;
 		margin: 0 0 2.25em 0;
-		padding-right: 1em;
+		padding-right: 3em;
 		width: 30%;
 	}
 
 	.features article .inner {
 		display: inline-block;
-		width: 60%;
+		width: 73%;
+		padding-left: 1.5em;
 	}
 
 /* Header */
@@ -111,6 +112,7 @@
 
 	ul.copyright {
 		padding-left: 0;
+		margin-bottom: 0;
 	}
 
 		#footer .copyright li {
@@ -137,4 +139,3 @@
 			font-size: 14px;
 			width: 44px;
 		}
-
