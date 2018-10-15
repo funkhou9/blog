@@ -10,4 +10,4 @@ github_username:  funkhou9
 url: http://www.scottafunkhouser.com
 
 # Build settings
-highlighter: pygments
+# highlighter: pygments
